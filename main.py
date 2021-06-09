@@ -1,3 +1,4 @@
-def main():
-print("Semper 03 Finance")
+def main(name):
+    print(name)
+
 main()
